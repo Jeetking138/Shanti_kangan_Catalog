@@ -1,0 +1,6 @@
+{
+  "name": "Shanti Kangan - Bangles Catalog",
+  "description": "Bangles product catalog manager with stock tracking, WhatsApp photo cards, and multi-product PDF catalog generator for Jeet Gold.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
